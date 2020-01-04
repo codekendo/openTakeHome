@@ -8,5 +8,5 @@ See the CONTRIBUTION file.
 
 # License 
 
-MIT
+MIT License
 
